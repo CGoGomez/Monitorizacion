@@ -29,8 +29,10 @@ Muestra solo los procesos que están relacionados con el editor de texto nano. E
 ![comando ps](/img/psnano.png)
 
 ## PS u -C nano
+
 Similar al anterior, pero muestra información más detallada sobre los procesos de nano, como el usuario que los inició; otra forma de ver quien es el que hace cosas por hacer.
+
 ![comando ps](/img/psucnano.png)
 
-
+***
 A veces, los comandos simplones pueden dar bastante información. Este suele ser bastante informativo cuando más se necesita.
