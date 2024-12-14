@@ -22,6 +22,7 @@ Similar a ps au, pero proporciona información aún más extensa, incluyendo el 
 
 ## PS con... opciones (?
 ![comando ps](/img/psmore.png)
+
 Es un poco largo, por eso la explicación está debajo de la captura. Este comando te mostrará una lista de los 6 procesos que están consumiendo más CPU en este momento, junto con el usuario propietario, el PID, el porcentaje de uso de la CPU y la memoria, y el tiempo de ejecución; es difícil de digerir.
 
 ## PS -C nano
