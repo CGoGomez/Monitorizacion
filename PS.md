@@ -10,14 +10,17 @@ Aunque no es bueno que sea ulta sencillo, evidentemente tiene otras opciones que
 
 ## PS a
 Muestra todos los procesos asociados a tu terminal, incluso los que no iniciaste tú directamente.
+
 ![comando ps](/img/psa.png)
 
 ## PS au
 Muestra todos los procesos de todos los usuarios, pero con información más detallada sobre el uso de la CPU y la memoria; a ver ¿Quién se está tragando mi PC en otros plano?
+
 ![comando ps](/img/psau.png)
 
 ## PS aux
 Similar a ps au, pero proporciona información aún más extensa, incluyendo el usuario propietario del proceso, la hora de inicio y otros detalles. Ahora ya puedes gritar eso del "¡Alto ahí escoria criminal!" al descubrir quien ha ejecutado 100 archivos txt de una.
+
 ![comando ps](/img/psaux.png)
 
 ## PS con... opciones (?
@@ -27,6 +30,7 @@ Es un poco largo, por eso la explicación está debajo de la captura. Este coman
 
 ## PS -C nano
 Muestra solo los procesos que están relacionados con el editor de texto nano. Es útil para ver si tienes varias instancias de nano abiertas.
+
 ![comando ps](/img/psnano.png)
 
 ## PS u -C nano
