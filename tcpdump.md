@@ -24,3 +24,7 @@ Si bien el comando anterior funciona, no es recomendable usarlo constantemente p
 ¿Solución? Guardarlo en un archivo que ya existe, si hay algún problema guardas y haces un registro del momento.
 
 ![tcpdump](/img/tcpdumpr.png)
+
+***
+
+[Volver](README.md)
