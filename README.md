@@ -7,3 +7,8 @@ y para ello consta de un montón de herramientas para poder encontrar a esos pro
 para ello podríamos ejercer las medidas necesarias para poder mantenerlo a salvo.
 
 En este repositorio veremos algunas de esas herramientas necesarias para asegurarnos que todo va en orden.
+
+* [Comando PS](PS.md)
+* [Comando Free](free.md)
+* [Comando TCPDump](tcpdump.md)
+*
