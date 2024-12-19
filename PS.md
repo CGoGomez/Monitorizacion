@@ -41,3 +41,6 @@ Similar al anterior, pero muestra información más detallada sobre los procesos
 
 ***
 A veces, los comandos simplones pueden dar bastante información. Este suele ser bastante informativo cuando más se necesita.
+
+
+[Volver](README.md)
