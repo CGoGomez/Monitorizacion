@@ -22,3 +22,7 @@ Muestra la información de la memoria de forma continua, actualizando la salida 
 
 Proporciona una visualización dinámica del uso de la memoria a lo largo del tiempo. En el ejemplo podemos observar que hay un **3** y esto indica que actualizará cada 3 segundos la información mostrada, este tiempo se puede
 establecer a gusto del usuario, recomendable expresarla en segundos.
+
+***
+
+[Volver](README.md)
