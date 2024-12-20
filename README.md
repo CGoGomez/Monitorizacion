@@ -12,3 +12,5 @@ En este repositorio veremos algunas de esas herramientas necesarias para asegura
 * [Comando Free](free.md)
 * [Comando TCPDump](tcpdump.md)
 * [Comando IOstat](Iostat.md)
+* [Comando top](top.md)
+* [Comandos Adicionales](Extras.md)
